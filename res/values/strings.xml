@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+       <string-array name="items">
+        <item>Home</item>
+        <item>Capture Vitals</item>
+        <item>Admit Patient</item>
+        <item>Discharge Patient</item>
+        <item>Share this app</item>
+        <item>Rate app</item>
+        <item>About</item>
+        <item>Logout</item>
+    </string-array>
+ 
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="app_name">HealthIT</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="user_registration">User Registration</string>
+    <string name="username">username</string>
+    <string name="login">Login</string>
+    <string name="welcome_please_sign_in">Welcome please sign in</string>
+    <string name="user_id_">User ID :</string>
+    <string name="new_user_">New User?</string>
+    <string name="register">Register</string>
+    <string name="please_sign_in">Please Sign In</string>
+    <string name="username_">Username:</string>
+    <string name="password_">Password:</string>
+    <string name="new_user_register_here_">New User? Register Here:</string>
+    <string name="welcome">Welcome</string>
+    <string name="patient_ip_no">Patient IP No</string>
+    <string name="confirm_password_">Confirm Password:</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name_">Last Name:</string>
+    <string name="password">password</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="ward_">Ward:</string>
+    <string name="_254702206822">+254702206822</string>
+    <string name="designation">Designation</string>
+    <string name="phone_no_">Phone No.:</string>
+    <string name="view">View</string>
+    <string name="new_patient_register_here_">New Patient? Register here:</string>
+    <string name="register_new">Register New</string>
+    <string name="search">Search</string>
+    <string name="patient_no_">Patient No.:</string>
+    <string name="enter_reffering_facility">Enter Referring facility</string>
+    <string name="specify_the_reasons_for_refferal_from_the_refering_facility">specify the reasons for referral  from the referring facility</string>
+    <string name="reffered_from_">Referred from:</string>
+    <string name="kisumu">kisumu</string>
+    <string name="welcome_this_page_is_confidential">Welcome, This page is Confidential</string>
+    <string name="_84312">84312</string>
+    <string name="patient_apos_s_name_">Patient&amp;apos;s Name:</string>
+    <string name="enter_examination_notes_with_the_reason_for_admission">Enter examination Notes with the reason for admission</string>
+    <string name="diagnosis_">DIAGNOSIS :</string>
+    <string name="enter_the_patient_number">Enter the patient number</string>
+    <string name="residence_">"RESIDENCE : "</string>
+    <string name="reasons_for_refferal">Reasons for Refferal</string>
+    <string name="name_">NAME :</string>
+    <string name="john_doe">john doe</string>
+    <string name="clear">Clear</string>
+    <string name="todo">TODO</string>
+    <string name="_7">7</string>
+    <string name="_2547xxxxxxxx">07xxxxxxxx</string>
+    <string name="senior_nurse_ii">Senior Nurse II</string>
+    <string name="first_name_">First Name:</string>
+    <string name="welcome_this_page_is_confidential_">Welcome, This page is Confidential !!</string>
+    <string name="patient_ip_no_">Patient IP No:</string>
+    <string name="_23">23</string>
+    <string name="age_">AGE :</string>
+    <string name="f">F</string>
+    <string name="gender_">GENDER :</string>
+    <string name="about_healthit">About HealthIt</string>
+    <string name="version_1_0">Version: 1.0</string>
+    <string name="developed_by_ezrapinnae_inc_">Developed by EzraPinnae Inc.</string>
+    <string name="image">image</string>
+    <string name="disease">Disease</string>
+    <string name="ward_no_">Ward No.:</string>
+    <string name="bed_no_">Bed No.:</string>
+    <string name="_1">1</string>
+    <string name="discharge_patient_">Discharge Patient.</string>
+    <string name="enter_patient_ip_no_">Enter Patient IP No.</string>
+    <string name="delete_">Delete:</string>
+    <string name="discharge">Discharge</string>
+    <string name="textview">TextView</string>
+    <string name="_id_textview9">\@+id/textView9</string>
+    <string name="date_of_discharge">DATE OF DISCHARGE</string>
+    <string name="_">" "</string>
+    <string name="button">Button</string>
+    <string name="patient_name_">PATIENT NAME:</string>
+    <string name="discharge_today_">"DISCHARGE TODAY: "</string>
+    <string name="height_">"HEIGHT : "</string>
+    <string name="weight_">WEIGHT :</string>
+    <string name="bmi_">"BMI : "</string>
+    <string name="drug_administered_">Drug Administered:</string>
+    <string name="time_">Time:</string>
+    <string name="update_patient_apos_s_drug_administration_">Update Patient&amp;apos;s Drug Administration:</string>
+    <string name="next_dosage_">Next Dosage:</string>
+    <string name="administered_by_">Administered by:</string>
+    <string name="dosage_">Dosage:</string>
+    <string name="disease_code_">"DISEASE CODE: "</string>
+    <string name="drugs_">Drugs:</string>
+    <string name="update_patient_drug_administration">Update patient Drug Administration</string>
+    <string name="twitter_share_">"Twitter share "</string>
+    <string name="ward_round_app">Ward-round App</string>
+    <string name="share">Share</string>
+    <string name="logo">TODO</string>
+    <string name="very_severely_underweight">VERY SERVERELY UNDERWEIGHT</string>
+    <string name="severely_underweight">SERVERELY UNDERWEIGHT</string>
+    <string name="underweight">UNDERWEIGHT</string>
+    <string name="normal">NORMAL</string>
+    <string name="overweight">OVERWEIGHT</string>
+    <string name="obese_class_i">OBESE CLASS I</string>
+    <string name="obese_class_ii">OBESE CLASS II</string>
+    <string name="obese_class_iii">OBESE CLASS III</string>
+    
+    
+    
+
+
+</resources>
